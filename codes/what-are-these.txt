@@ -1,0 +1,3 @@
+In here there are two type of files.
+1- "sampling.py" which is sampling on TweePy
+2- Pre-processing and prediction algorithms which is in Jupyter Notebook.
