@@ -1,0 +1,2 @@
+These are months that were used to pre-process, or as it can be said raw data.
+Taken from TweePy by using "sampling.py"
